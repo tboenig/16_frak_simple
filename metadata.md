@@ -36,14 +36,7 @@
                (PRImA-Research-Lab) at the University of Salford. 
                This normalized and semantic description of the OCR-GT data can be found in the METS metadata file. 
                The labeling metadata is created for each available page. The following labeling metadata is available for the complete collection.</p>
-   <ul>
-      <li>
-         <a href="https://github.com/tboenig/16_frak_simple/releases/download/v34/bagitDump-v34.zip">Current version download: bagitDump-v34.zip</a>
-      </li>
-      <li>
-         <a href="https://github.com/tboenig/16_frak_simple/releases">Version archive</a>
-      </li>
-   </ul>
+   <ul/>
 </div>
 <div class="metadata">
    <h2>Download</h2>
@@ -52,7 +45,7 @@
                         Metadata for the complete collection and the components are in METS format.</p>
    <ul>
       <li>
-         <a href="https://github.com/tboenig/16_frak_simple/releases/download/v34/bagitDump-v34.zip">Current version download: bagitDump-v34.zip</a>
+         <a href="https://github.com/tboenig/16_frak_simple/releases/download/v35/bagitDump-v35.zip">Current version download: bagitDump-v35.zip</a>
       </li>
       <li>
          <a href="https://github.com/tboenig/16_frak_simple/releases">Version archive</a>
