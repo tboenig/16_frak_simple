@@ -36,17 +36,19 @@
                (PRImA-Research-Lab) at the University of Salford. 
                This normalized and semantic description of the OCR-GT data can be found in the METS metadata file. 
                The labeling metadata is created for each available page. The following labeling metadata is available for the complete collection.</p>
+   <p>For a description and explanation of the labeling metadata, 
+               see: <a href="=https://ocr-d.de/en/gt-guidelines/labeling/OCR-D_GT_labeling_schema_xsd_Element_gt_gt.html#gt_gt_state_prop">Labelings</a>.</p>
    <ul>
-      <li prop="granularity/physical/document-related/word"/>
-      <li prop="granularity/physical/document-related/text-line"/>
-      <li prop="granularity/physical/document-related/region"/>
-      <li prop="condition/acquisition/geometric/perspective-distortions"/>
-      <li prop="condition/acquisition/geometric/page-curl"/>
-      <li prop="condition/ageing/warping"/>
-      <li prop="data-attributes/document-related/visual/text/font/multi-font/font-sizes"/>
-      <li prop="condition/production-related/document-faults/ink-from-facing"/>
-      <li prop="condition/wear/medium-damage/stains"/>
-      <li prop="condition/wear/additions/informative/annotations"/>
+      <li>granularity/physical/document-related/word</li>
+      <li>granularity/physical/document-related/text-line</li>
+      <li>granularity/physical/document-related/region</li>
+      <li>condition/acquisition/geometric/perspective-distortions</li>
+      <li>condition/acquisition/geometric/page-curl</li>
+      <li>condition/ageing/warping</li>
+      <li>data-attributes/document-related/visual/text/font/multi-font/font-sizes</li>
+      <li>condition/production-related/document-faults/ink-from-facing</li>
+      <li>condition/wear/medium-damage/stains</li>
+      <li>condition/wear/additions/informative/annotations</li>
    </ul>
 </div>
 <div class="metadata">
@@ -56,7 +58,7 @@
                         Metadata for the complete collection and the components are in METS format.</p>
    <ul>
       <li>
-         <a href="https://github.com/tboenig/16_frak_simple/releases/download/v36/bagitDump-v36.zip">Current version download: bagitDump-v36.zip</a>
+         <a href="https://github.com/tboenig/16_frak_simple/releases/download/v38/bagitDump-v38.zip">Current version download: bagitDump-v38.zip</a>
       </li>
       <li>
          <a href="https://github.com/tboenig/16_frak_simple/releases">Version archive</a>
