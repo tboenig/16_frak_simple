@@ -1,6 +1,6 @@
 <div>
    <h1 id="title">16_frak_simple</h1>
-   <p id="paragraph">Ground Truth with a collection of documents with the following characteristics: Font: blackletter</p>
+   <p id="paragraph">Ground Truth with a collection of documents with the following characteristics: font blackletter</p>
    <h2>Metadata</h2>
    <dl class="grid">
       <dt id="Language">Language:</dt>
