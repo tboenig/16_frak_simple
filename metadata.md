@@ -36,7 +36,7 @@
                         Metadata for the complete collection and the components are in METS format.</p>
    <ul>
       <li>
-         <a href="https://github.com/tboenig/16_frak_simple/releases/download/v31/bagitDump-v31.zip">Current version download: bagitDump-v31.zip</a>
+         <a href="https://github.com/tboenig/16_frak_simple/releases/download/v32/bagitDump-v32.zip">Current version download: bagitDump-v32.zip</a>
       </li>
       <li>
          <a href="https://github.com/tboenig/16_frak_simple/releases">Version archive</a>
