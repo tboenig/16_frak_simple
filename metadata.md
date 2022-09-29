@@ -38,9 +38,44 @@
                The labeling metadata is created for each available page. The following labeling metadata is available for the complete collection.</p>
    <p>Here you will find a description and explanation of the labeling metadata.</p>
    <details>
-      <summary>granularity/physical/document-related/word</summary>
+      <summary>condition/acquisition/geometric/page-curl</summary>
       <p>
-         <strong>Description: </strong>Word or partial word, if separated by line break, for example</p>
+         <strong>Description: </strong>Visible page curl (e.g. book scanning)</p>
+   </details>
+   <details>
+      <summary>condition/acquisition/geometric/perspective-distortions</summary>
+      <p>
+         <strong>Description: </strong>Perspective distortions (e.g. due to camera-based acquisition)</p>
+   </details>
+   <details>
+      <summary>condition/ageing/warping</summary>
+      <p>
+         <strong>Description: </strong>Arbitrary warping (e.g. due to moisture)</p>
+   </details>
+   <details>
+      <summary>condition/production-related/document-faults/ink-from-facing</summary>
+      <p>
+         <strong>Description: </strong>Ink from facing page was transferred to this page</p>
+   </details>
+   <details>
+      <summary>condition/wear/additions/informative/annotations</summary>
+      <p>
+         <strong>Description: </strong>Annotations regarding the content</p>
+   </details>
+   <details>
+      <summary>condition/wear/medium-damage/stains</summary>
+      <p>
+         <strong>Description: </strong>Noticeable stains on medium</p>
+   </details>
+   <details>
+      <summary>data-attributes/document-related/visual/text/font/multi-font/font-sizes</summary>
+      <p>
+         <strong>Description: </strong>More than one font size used</p>
+   </details>
+   <details>
+      <summary>granularity/physical/document-related/region</summary>
+      <p>
+         <strong>Description: </strong>Region, zone, block</p>
    </details>
    <details>
       <summary>granularity/physical/document-related/text-line</summary>
@@ -50,44 +85,9 @@
                     </p>
    </details>
    <details>
-      <summary>granularity/physical/document-related/region</summary>
+      <summary>granularity/physical/document-related/word</summary>
       <p>
-         <strong>Description: </strong>Region, zone, block</p>
-   </details>
-   <details>
-      <summary>data-attributes/document-related/visual/text/font/multi-font/font-sizes</summary>
-      <p>
-         <strong>Description: </strong>More than one font size used</p>
-   </details>
-   <details>
-      <summary>condition/wear/medium-damage/stains</summary>
-      <p>
-         <strong>Description: </strong>Noticeable stains on medium</p>
-   </details>
-   <details>
-      <summary>condition/wear/additions/informative/annotations</summary>
-      <p>
-         <strong>Description: </strong>Annotations regarding the content</p>
-   </details>
-   <details>
-      <summary>condition/production-related/document-faults/ink-from-facing</summary>
-      <p>
-         <strong>Description: </strong>Ink from facing page was transferred to this page</p>
-   </details>
-   <details>
-      <summary>condition/ageing/warping</summary>
-      <p>
-         <strong>Description: </strong>Arbitrary warping (e.g. due to moisture)</p>
-   </details>
-   <details>
-      <summary>condition/acquisition/geometric/perspective-distortions</summary>
-      <p>
-         <strong>Description: </strong>Perspective distortions (e.g. due to camera-based acquisition)</p>
-   </details>
-   <details>
-      <summary>condition/acquisition/geometric/page-curl</summary>
-      <p>
-         <strong>Description: </strong>Visible page curl (e.g. book scanning)</p>
+         <strong>Description: </strong>Word or partial word, if separated by line break, for example</p>
    </details>
 </div>
 <div class="metadata">
@@ -97,7 +97,7 @@
                         Metadata for the complete collection and the components are in METS format.</p>
    <ul>
       <li>
-         <a href="https://github.com/tboenig/16_frak_simple/releases/download/v42/bagitDump-v42.zip">Current version download: bagitDump-v42.zip</a>
+         <a href="https://github.com/tboenig/16_frak_simple/releases/download/v43/bagitDump-v43.zip">Current version download: bagitDump-v43.zip</a>
       </li>
       <li>
          <a href="https://github.com/tboenig/16_frak_simple/releases">Version archive</a>
