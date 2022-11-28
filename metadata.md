@@ -138,6 +138,16 @@ An image database</p>
          <strong>Description: </strong>More than one font size used</p>
    </details>
    <details>
+      <summary>data-attributes/document-related/visual/text/font/typeface/antiqua</summary>
+      <p>
+         <strong>Description: </strong>Antiqua font (more modern)</p>
+   </details>
+   <details>
+      <summary>data-attributes/document-related/visual/text/font/typeface/blackletter</summary>
+      <p>
+         <strong>Description: </strong>Blackletter, gothic, Fraktur</p>
+   </details>
+   <details>
       <summary>granularity/logical/document-related/paragraph</summary>
       <p>
          <strong>Description: </strong>
@@ -183,7 +193,7 @@ An image database</p>
                         Metadata for the complete collection and the components are in METS format.</p>
    <ul>
       <li>
-         <a href="https://github.com/tboenig/16_frak_simple/releases/download/v59/bagitDump-v59.zip">Current version download: bagitDump-v59.zip</a>
+         <a href="https://github.com/tboenig/16_frak_simple/releases/download/v60/bagitDump-v60.zip">Current version download: bagitDump-v60.zip</a>
       </li>
       <li>
          <a href="https://github.com/tboenig/16_frak_simple/releases">Version archive</a>

@@ -140,7 +140,7 @@
          <td>0</td>
          <td>0</td>
          <td>0</td>
-         <td>0 0</td>
+         <td>0</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -159,7 +159,7 @@
          <td>0</td>
          <td>2</td>
          <td>0</td>
-         <td>0 0</td>
+         <td>0</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -172,32 +172,13 @@
          <td>1</td>
       </tr>
       <tr>
-         <th>luther_auszlegunge_1520_0003.xml</th>
-         <td>6</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0 0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>34</td>
-         <td>1</td>
-      </tr>
-      <tr>
          <th>luther_auszlegunge_1520_0029.xml</th>
          <td>5</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
-         <td>0 0</td>
+         <td>0</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -210,13 +191,8 @@
          <td>1</td>
       </tr>
       <tr>
-         <th>kistler_kraeuter_1500_0007.xml</th>
-         <td>8</td>
-         <td>0</td>
-         <td>0</td>
-         <td>1</td>
-         <td>0</td>
-         <td>0 0</td>
+         <th>luther_auszlegunge_1520_0003.xml</th>
+         <td>6</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -225,7 +201,12 @@
          <td>0</td>
          <td>0</td>
          <td>0</td>
-         <td>29</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>34</td>
          <td>1</td>
       </tr>
       <tr>
@@ -235,7 +216,7 @@
          <td>0</td>
          <td>0</td>
          <td>0</td>
-         <td>0 0</td>
+         <td>0</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -245,6 +226,25 @@
          <td>0</td>
          <td>0</td>
          <td>30</td>
+         <td>1</td>
+      </tr>
+      <tr>
+         <th>kistler_kraeuter_1500_0007.xml</th>
+         <td>8</td>
+         <td>0</td>
+         <td>0</td>
+         <td>1</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>29</td>
          <td>1</td>
       </tr>
    </tbody>
