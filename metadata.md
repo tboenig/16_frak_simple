@@ -193,7 +193,7 @@ An image database</p>
                         Metadata for the complete collection and the components are in METS format.</p>
    <ul>
       <li>
-         <a href="https://github.com/tboenig/16_frak_simple/releases/download/v66/bagitDump-v66.zip">Current version download: bagitDump-v66.zip</a>
+         <a href="https://github.com/tboenig/16_frak_simple/releases/download/v67/bagitDump-v67.zip">Current version download: bagitDump-v67.zip</a>
       </li>
       <li>
          <a href="https://github.com/tboenig/16_frak_simple/releases">Version archive</a>
