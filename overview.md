@@ -134,25 +134,6 @@
    </thead>
    <tbody>
       <tr>
-         <th>trota_mordtbrenner_1540_0011.xml</th>
-         <td>14</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>24</td>
-         <td>1</td>
-      </tr>
-      <tr>
          <th>trota_mordtbrenner_1540_0013.xml</th>
          <td>6</td>
          <td>0</td>
@@ -172,8 +153,8 @@
          <td>1</td>
       </tr>
       <tr>
-         <th>luther_auszlegunge_1520_0029.xml</th>
-         <td>5</td>
+         <th>trota_mordtbrenner_1540_0011.xml</th>
+         <td>14</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -187,26 +168,7 @@
          <td>0</td>
          <td>0</td>
          <td>0</td>
-         <td>26</td>
-         <td>1</td>
-      </tr>
-      <tr>
-         <th>luther_auszlegunge_1520_0003.xml</th>
-         <td>6</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>34</td>
+         <td>24</td>
          <td>1</td>
       </tr>
       <tr>
@@ -245,6 +207,44 @@
          <td>0</td>
          <td>0</td>
          <td>29</td>
+         <td>1</td>
+      </tr>
+      <tr>
+         <th>luther_auszlegunge_1520_0003.xml</th>
+         <td>6</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>34</td>
+         <td>1</td>
+      </tr>
+      <tr>
+         <th>luther_auszlegunge_1520_0029.xml</th>
+         <td>5</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>26</td>
          <td>1</td>
       </tr>
    </tbody>

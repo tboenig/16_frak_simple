@@ -239,27 +239,6 @@
                         </thead>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/16_frak_simple/blob/main/data/trota_mordtbrenner_1540/GT-PAGE/trota_mordtbrenner_1540_0011.xml">trota_mordtbrenner_1540_0011.xml</a>
-                           </td>
-                           <td>24</td>
-                           <td>1</td>
-                           <td>14</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                        </tr>
-                        <tr>
-                           <td>
                               <a href="https://github.com/tboenig/16_frak_simple/blob/main/data/trota_mordtbrenner_1540/GT-PAGE/trota_mordtbrenner_1540_0013.xml">trota_mordtbrenner_1540_0013.xml</a>
                            </td>
                            <td>20</td>
@@ -279,83 +258,13 @@
                            <td>0</td>
                            <td>0</td>
                         </tr>
-                     </table>
-                  </details>
-               </td>
-            </tr>
-            <tr>
-               <th>luther_auszlegunge_1520</th>
-               <td>60</td>
-               <td>2</td>
-               <td>11</td>
-               <td>0</td>
-               <td>0</td>
-               <td>0</td>
-               <td>0</td>
-               <td>0</td>
-               <td>0</td>
-               <td>0</td>
-               <td>0</td>
-               <td>0</td>
-               <td>0</td>
-               <td>0</td>
-               <td>0</td>
-               <td>0</td>
-            </tr>
-            <tr>
-               <td colspan="17" style="text-align:left !important;">
-                  <details>
-                     <summary>Overview</summary>
-                     <table>
-                        <thead>
-                           <tr>
-                              <th>document</th>
-                              <th>TextLine</th>
-                              <th>Page</th>
-                              <th>TxtRegion</th>
-                              <th>ImgRegion</th>
-                              <th>LineDrawRegion</th>
-                              <th>GraphRegion</th>
-                              <th>TabRegion</th>
-                              <th>ChartRegion</th>
-                              <th>SepRegion</th>
-                              <th>MathRegion</th>
-                              <th>ChemRegion</th>
-                              <th>MusicRegion</th>
-                              <th>AdRegion</th>
-                              <th>NoiseRegion</th>
-                              <th>UnkownRegion</th>
-                              <th>CustomRegion</th>
-                           </tr>
-                        </thead>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/16_frak_simple/blob/main/data/luther_auszlegunge_1520/GT-PAGE/luther_auszlegunge_1520_0029.xml">luther_auszlegunge_1520_0029.xml</a>
+                              <a href="https://github.com/tboenig/16_frak_simple/blob/main/data/trota_mordtbrenner_1540/GT-PAGE/trota_mordtbrenner_1540_0011.xml">trota_mordtbrenner_1540_0011.xml</a>
                            </td>
-                           <td>26</td>
+                           <td>24</td>
                            <td>1</td>
-                           <td>5</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                        </tr>
-                        <tr>
-                           <td>
-                              <a href="https://github.com/tboenig/16_frak_simple/blob/main/data/luther_auszlegunge_1520/GT-PAGE/luther_auszlegunge_1520_0003.xml">luther_auszlegunge_1520_0003.xml</a>
-                           </td>
-                           <td>34</td>
-                           <td>1</td>
-                           <td>6</td>
+                           <td>14</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
@@ -450,6 +359,97 @@
                            <td>0</td>
                            <td>0</td>
                            <td>1</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                        </tr>
+                     </table>
+                  </details>
+               </td>
+            </tr>
+            <tr>
+               <th>luther_auszlegunge_1520</th>
+               <td>60</td>
+               <td>2</td>
+               <td>11</td>
+               <td>0</td>
+               <td>0</td>
+               <td>0</td>
+               <td>0</td>
+               <td>0</td>
+               <td>0</td>
+               <td>0</td>
+               <td>0</td>
+               <td>0</td>
+               <td>0</td>
+               <td>0</td>
+               <td>0</td>
+               <td>0</td>
+            </tr>
+            <tr>
+               <td colspan="17" style="text-align:left !important;">
+                  <details>
+                     <summary>Overview</summary>
+                     <table>
+                        <thead>
+                           <tr>
+                              <th>document</th>
+                              <th>TextLine</th>
+                              <th>Page</th>
+                              <th>TxtRegion</th>
+                              <th>ImgRegion</th>
+                              <th>LineDrawRegion</th>
+                              <th>GraphRegion</th>
+                              <th>TabRegion</th>
+                              <th>ChartRegion</th>
+                              <th>SepRegion</th>
+                              <th>MathRegion</th>
+                              <th>ChemRegion</th>
+                              <th>MusicRegion</th>
+                              <th>AdRegion</th>
+                              <th>NoiseRegion</th>
+                              <th>UnkownRegion</th>
+                              <th>CustomRegion</th>
+                           </tr>
+                        </thead>
+                        <tr>
+                           <td>
+                              <a href="https://github.com/tboenig/16_frak_simple/blob/main/data/luther_auszlegunge_1520/GT-PAGE/luther_auszlegunge_1520_0003.xml">luther_auszlegunge_1520_0003.xml</a>
+                           </td>
+                           <td>34</td>
+                           <td>1</td>
+                           <td>6</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <a href="https://github.com/tboenig/16_frak_simple/blob/main/data/luther_auszlegunge_1520/GT-PAGE/luther_auszlegunge_1520_0029.xml">luther_auszlegunge_1520_0029.xml</a>
+                           </td>
+                           <td>26</td>
+                           <td>1</td>
+                           <td>5</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
