@@ -86,25 +86,6 @@
                   <td>2</td>
                </tr>
                <tr>
-                  <td>luther_auszlegunge_1520</td>
-                  <td>11</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>60</td>
-                  <td>2</td>
-               </tr>
-               <tr>
                   <td>kistler_kraeuter_1500</td>
                   <td>15</td>
                   <td/>
@@ -121,6 +102,25 @@
                   <td/>
                   <td/>
                   <td>59</td>
+                  <td>2</td>
+               </tr>
+               <tr>
+                  <td>luther_auszlegunge_1520</td>
+                  <td>11</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>60</td>
                   <td>2</td>
                </tr>
             </tbody>
