@@ -133,15 +133,5 @@
                                 In this section they can insert additional information, instructions or notes.
                             </p>
    </div>
-   <details open="">
-      <summary>activityDomain/computing/visual/analysisRecognition/layoutAnalysis</summary>
-      <p>
-         <strong>Description: </strong>In computer vision, document layout analysis is the process of identifying and categorizing the regions of interest in the scanned image of a text document. A reading system requires the segmentation of text zones from non-textual ones and the arrangement in their correct reading order.
-
-Examples:
-Page layout analysis (segmentation into regions, classification into text, graphic, table etc.)
-
-Related:
-"OCR": Often used as a synonym for layout analysis and text recognition, but strictly only the text recognition component.</p>
-   </details>
+   
 </div>
