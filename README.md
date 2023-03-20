@@ -133,5 +133,4 @@
                                 In this section they can insert additional information, instructions or notes.
                             </p>
    </div>
-   
 </div>
