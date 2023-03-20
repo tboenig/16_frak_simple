@@ -20,7 +20,7 @@ jobs:
     - name: Git checkout
       uses: actions/checkout@v2
 
-     # Instalations Styles
+     # Installations Styles
       
     - name: install anaylse xsl-styles
       run: | 
@@ -37,6 +37,9 @@ jobs:
      
     # Installation and Directories
       
+    - name: install jq
+      run: sudo apt-get install jq
+    
     - name: install ocrd
       run: |
        git clone --depth 1 https://github.com/OCR-D/core
@@ -107,7 +110,9 @@ jobs:
       run: |
         java -jar saxon-he-10.5.jar -xsl:scripts/gt-overview_metadata.xsl \
         output=METAJSON repoBase=$GITHUB_REF_Name repoName=$GITHUB_REPOSITORY bagitDumpNum=$GITHUB_RUN_NUMBER \
-        -s:scripts/gt-overview_metadata.xsl -o:ocrdzip_out/metadata.json
+        -s:scripts/gt-overview_metadata.xsl -o:ocrdzip_out/metadata_l.json
+        jq '.' ocrdzip_out/metadata_l.json >ocrdzip_out/metadata.json
+        rm ocrdzip_out/metadata_l.json
       shell: bash
       
       
