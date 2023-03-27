@@ -239,7 +239,7 @@
                         </thead>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/16_frak_simple/blob/main/data/trota_mordtbrenner_1540/GT-PAGE/trota_mordtbrenner_1540_0013.xml">trota_mordtbrenner_1540_0013.xml</a>
+                              <a href="https://github.com/tboenig/16_frak_simple/blob/v1.0.0/data/trota_mordtbrenner_1540/GT-PAGE/trota_mordtbrenner_1540_0013.xml">trota_mordtbrenner_1540_0013.xml</a>
                            </td>
                            <td>20</td>
                            <td>1</td>
@@ -260,7 +260,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/16_frak_simple/blob/main/data/trota_mordtbrenner_1540/GT-PAGE/trota_mordtbrenner_1540_0011.xml">trota_mordtbrenner_1540_0011.xml</a>
+                              <a href="https://github.com/tboenig/16_frak_simple/blob/v1.0.0/data/trota_mordtbrenner_1540/GT-PAGE/trota_mordtbrenner_1540_0011.xml">trota_mordtbrenner_1540_0011.xml</a>
                            </td>
                            <td>24</td>
                            <td>1</td>
@@ -330,7 +330,7 @@
                         </thead>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/16_frak_simple/blob/main/data/kistler_kraeuter_1500/GT-PAGE/kistler_kraeuter_1500_0021.xml">kistler_kraeuter_1500_0021.xml</a>
+                              <a href="https://github.com/tboenig/16_frak_simple/blob/v1.0.0/data/kistler_kraeuter_1500/GT-PAGE/kistler_kraeuter_1500_0021.xml">kistler_kraeuter_1500_0021.xml</a>
                            </td>
                            <td>30</td>
                            <td>1</td>
@@ -351,7 +351,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/16_frak_simple/blob/main/data/kistler_kraeuter_1500/GT-PAGE/kistler_kraeuter_1500_0007.xml">kistler_kraeuter_1500_0007.xml</a>
+                              <a href="https://github.com/tboenig/16_frak_simple/blob/v1.0.0/data/kistler_kraeuter_1500/GT-PAGE/kistler_kraeuter_1500_0007.xml">kistler_kraeuter_1500_0007.xml</a>
                            </td>
                            <td>29</td>
                            <td>1</td>
@@ -421,7 +421,7 @@
                         </thead>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/16_frak_simple/blob/main/data/luther_auszlegunge_1520/GT-PAGE/luther_auszlegunge_1520_0003.xml">luther_auszlegunge_1520_0003.xml</a>
+                              <a href="https://github.com/tboenig/16_frak_simple/blob/v1.0.0/data/luther_auszlegunge_1520/GT-PAGE/luther_auszlegunge_1520_0003.xml">luther_auszlegunge_1520_0003.xml</a>
                            </td>
                            <td>34</td>
                            <td>1</td>
@@ -442,7 +442,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/16_frak_simple/blob/main/data/luther_auszlegunge_1520/GT-PAGE/luther_auszlegunge_1520_0029.xml">luther_auszlegunge_1520_0029.xml</a>
+                              <a href="https://github.com/tboenig/16_frak_simple/blob/v1.0.0/data/luther_auszlegunge_1520/GT-PAGE/luther_auszlegunge_1520_0029.xml">luther_auszlegunge_1520_0029.xml</a>
                            </td>
                            <td>26</td>
                            <td>1</td>
