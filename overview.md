@@ -134,27 +134,11 @@
    </thead>
    <tbody>
       <tr>
-         <th>trota_mordtbrenner_1540_0013.xml</th>
-         <td>6</td>
+         <th>kistler_kraeuter_1500_0007.xml</th>
+         <td>8</td>
          <td>0</td>
          <td>0</td>
-         <td>2</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>20</td>
          <td>1</td>
-      </tr>
-      <tr>
-         <th>trota_mordtbrenner_1540_0011.xml</th>
-         <td>14</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -165,10 +149,7 @@
          <td>0</td>
          <td>0</td>
          <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>24</td>
+         <td>29</td>
          <td>1</td>
       </tr>
       <tr>
@@ -188,25 +169,6 @@
          <td>0</td>
          <td>0</td>
          <td>30</td>
-         <td>1</td>
-      </tr>
-      <tr>
-         <th>kistler_kraeuter_1500_0007.xml</th>
-         <td>8</td>
-         <td>0</td>
-         <td>0</td>
-         <td>1</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>29</td>
          <td>1</td>
       </tr>
       <tr>
@@ -245,6 +207,44 @@
          <td>0</td>
          <td>0</td>
          <td>26</td>
+         <td>1</td>
+      </tr>
+      <tr>
+         <th>trota_mordtbrenner_1540_0011.xml</th>
+         <td>14</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>24</td>
+         <td>1</td>
+      </tr>
+      <tr>
+         <th>trota_mordtbrenner_1540_0013.xml</th>
+         <td>6</td>
+         <td>0</td>
+         <td>0</td>
+         <td>2</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>20</td>
          <td>1</td>
       </tr>
    </tbody>

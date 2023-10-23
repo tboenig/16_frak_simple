@@ -55,9 +55,10 @@
     "granularity/physical/document-related/word",
     "granularity/physical/document-related/text-line",
     "granularity/physical/document-related/region",
-    "condition/acquisition/geometric/perspective-distortions",
-    "condition/acquisition/geometric/page-curl",
-    "condition/ageing/warping",
+    "data-attributes/document-related/visual/text/font/multi-font/font-sizes",
+    "condition/production-related/document-faults/ink-from-facing",
+    "condition/wear/medium-damage/stains",
+    "condition/wear/additions/informative/annotations",
     "content-type/corpus",
     "platform/platform-independent",
     "content-encoding/structured",
@@ -71,9 +72,8 @@
     "data-attributes/document-related/visual/text/drop-caps",
     "data-attributes/document-related/visual/text/font/typeface/blackletter",
     "data-attributes/document-related/visual/text/font/typeface/antiqua",
-    "data-attributes/document-related/visual/text/font/multi-font/font-sizes",
-    "condition/production-related/document-faults/ink-from-facing",
-    "condition/wear/medium-damage/stains",
-    "condition/wear/additions/informative/annotations"
+    "condition/acquisition/geometric/perspective-distortions",
+    "condition/acquisition/geometric/page-curl",
+    "condition/ageing/warping"
   ]
 }

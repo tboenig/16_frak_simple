@@ -193,97 +193,6 @@
          </thead>
          <tbody>
             <tr>
-               <th>trota_mordtbrenner_1540</th>
-               <td>44</td>
-               <td>2</td>
-               <td>20</td>
-               <td>0</td>
-               <td>0</td>
-               <td>2</td>
-               <td>0</td>
-               <td>0</td>
-               <td>0</td>
-               <td>0</td>
-               <td>0</td>
-               <td>0</td>
-               <td>0</td>
-               <td>0</td>
-               <td>0</td>
-               <td>0</td>
-            </tr>
-            <tr>
-               <td colspan="17" style="text-align:left !important;">
-                  <details>
-                     <summary>Overview</summary>
-                     <table>
-                        <thead>
-                           <tr>
-                              <th>document</th>
-                              <th>TextLine</th>
-                              <th>Page</th>
-                              <th>TxtRegion</th>
-                              <th>ImgRegion</th>
-                              <th>LineDrawRegion</th>
-                              <th>GraphRegion</th>
-                              <th>TabRegion</th>
-                              <th>ChartRegion</th>
-                              <th>SepRegion</th>
-                              <th>MathRegion</th>
-                              <th>ChemRegion</th>
-                              <th>MusicRegion</th>
-                              <th>AdRegion</th>
-                              <th>NoiseRegion</th>
-                              <th>UnkownRegion</th>
-                              <th>CustomRegion</th>
-                           </tr>
-                        </thead>
-                        <tr>
-                           <td>
-                              <a href="https://github.com/tboenig/16_frak_simple/blob/v1.0.0/data/trota_mordtbrenner_1540/GT-PAGE/trota_mordtbrenner_1540_0013.xml">trota_mordtbrenner_1540_0013.xml</a>
-                           </td>
-                           <td>20</td>
-                           <td>1</td>
-                           <td>6</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>2</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                        </tr>
-                        <tr>
-                           <td>
-                              <a href="https://github.com/tboenig/16_frak_simple/blob/v1.0.0/data/trota_mordtbrenner_1540/GT-PAGE/trota_mordtbrenner_1540_0011.xml">trota_mordtbrenner_1540_0011.xml</a>
-                           </td>
-                           <td>24</td>
-                           <td>1</td>
-                           <td>14</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                        </tr>
-                     </table>
-                  </details>
-               </td>
-            </tr>
-            <tr>
                <th>kistler_kraeuter_1500</th>
                <td>59</td>
                <td>2</td>
@@ -330,14 +239,14 @@
                         </thead>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/16_frak_simple/blob/v1.0.0/data/kistler_kraeuter_1500/GT-PAGE/kistler_kraeuter_1500_0021.xml">kistler_kraeuter_1500_0021.xml</a>
+                              <a href="https://github.com/tboenig/16_frak_simple/blob/v1.1.1/data/kistler_kraeuter_1500/GT-PAGE/kistler_kraeuter_1500_0007.xml">kistler_kraeuter_1500_0007.xml</a>
                            </td>
-                           <td>30</td>
+                           <td>29</td>
                            <td>1</td>
-                           <td>7</td>
+                           <td>8</td>
                            <td>0</td>
                            <td>0</td>
-                           <td>0</td>
+                           <td>1</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
@@ -351,14 +260,14 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/16_frak_simple/blob/v1.0.0/data/kistler_kraeuter_1500/GT-PAGE/kistler_kraeuter_1500_0007.xml">kistler_kraeuter_1500_0007.xml</a>
+                              <a href="https://github.com/tboenig/16_frak_simple/blob/v1.1.1/data/kistler_kraeuter_1500/GT-PAGE/kistler_kraeuter_1500_0021.xml">kistler_kraeuter_1500_0021.xml</a>
                            </td>
-                           <td>29</td>
+                           <td>30</td>
                            <td>1</td>
-                           <td>8</td>
+                           <td>7</td>
                            <td>0</td>
                            <td>0</td>
-                           <td>1</td>
+                           <td>0</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
@@ -421,7 +330,7 @@
                         </thead>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/16_frak_simple/blob/v1.0.0/data/luther_auszlegunge_1520/GT-PAGE/luther_auszlegunge_1520_0003.xml">luther_auszlegunge_1520_0003.xml</a>
+                              <a href="https://github.com/tboenig/16_frak_simple/blob/v1.1.1/data/luther_auszlegunge_1520/GT-PAGE/luther_auszlegunge_1520_0003.xml">luther_auszlegunge_1520_0003.xml</a>
                            </td>
                            <td>34</td>
                            <td>1</td>
@@ -442,7 +351,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/16_frak_simple/blob/v1.0.0/data/luther_auszlegunge_1520/GT-PAGE/luther_auszlegunge_1520_0029.xml">luther_auszlegunge_1520_0029.xml</a>
+                              <a href="https://github.com/tboenig/16_frak_simple/blob/v1.1.1/data/luther_auszlegunge_1520/GT-PAGE/luther_auszlegunge_1520_0029.xml">luther_auszlegunge_1520_0029.xml</a>
                            </td>
                            <td>26</td>
                            <td>1</td>
@@ -450,6 +359,97 @@
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                        </tr>
+                     </table>
+                  </details>
+               </td>
+            </tr>
+            <tr>
+               <th>trota_mordtbrenner_1540</th>
+               <td>44</td>
+               <td>2</td>
+               <td>20</td>
+               <td>0</td>
+               <td>0</td>
+               <td>2</td>
+               <td>0</td>
+               <td>0</td>
+               <td>0</td>
+               <td>0</td>
+               <td>0</td>
+               <td>0</td>
+               <td>0</td>
+               <td>0</td>
+               <td>0</td>
+               <td>0</td>
+            </tr>
+            <tr>
+               <td colspan="17" style="text-align:left !important;">
+                  <details>
+                     <summary>Overview</summary>
+                     <table>
+                        <thead>
+                           <tr>
+                              <th>document</th>
+                              <th>TextLine</th>
+                              <th>Page</th>
+                              <th>TxtRegion</th>
+                              <th>ImgRegion</th>
+                              <th>LineDrawRegion</th>
+                              <th>GraphRegion</th>
+                              <th>TabRegion</th>
+                              <th>ChartRegion</th>
+                              <th>SepRegion</th>
+                              <th>MathRegion</th>
+                              <th>ChemRegion</th>
+                              <th>MusicRegion</th>
+                              <th>AdRegion</th>
+                              <th>NoiseRegion</th>
+                              <th>UnkownRegion</th>
+                              <th>CustomRegion</th>
+                           </tr>
+                        </thead>
+                        <tr>
+                           <td>
+                              <a href="https://github.com/tboenig/16_frak_simple/blob/v1.1.1/data/trota_mordtbrenner_1540/GT-PAGE/trota_mordtbrenner_1540_0011.xml">trota_mordtbrenner_1540_0011.xml</a>
+                           </td>
+                           <td>24</td>
+                           <td>1</td>
+                           <td>14</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <a href="https://github.com/tboenig/16_frak_simple/blob/v1.1.1/data/trota_mordtbrenner_1540/GT-PAGE/trota_mordtbrenner_1540_0013.xml">trota_mordtbrenner_1540_0013.xml</a>
+                           </td>
+                           <td>20</td>
+                           <td>1</td>
+                           <td>6</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>2</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
