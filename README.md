@@ -67,25 +67,6 @@
             </thead>
             <tbody>
                <tr>
-                  <td>trota_mordtbrenner_1540</td>
-                  <td>20</td>
-                  <td/>
-                  <td/>
-                  <td>2</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>44</td>
-                  <td>2</td>
-               </tr>
-               <tr>
                   <td>kistler_kraeuter_1500</td>
                   <td>15</td>
                   <td/>
@@ -121,6 +102,25 @@
                   <td/>
                   <td/>
                   <td>60</td>
+                  <td>2</td>
+               </tr>
+               <tr>
+                  <td>trota_mordtbrenner_1540</td>
+                  <td>20</td>
+                  <td/>
+                  <td/>
+                  <td>2</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>44</td>
                   <td>2</td>
                </tr>
             </tbody>
